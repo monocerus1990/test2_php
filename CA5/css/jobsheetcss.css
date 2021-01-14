@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 13, 2017, 8:34:30 PM
+    Author     : hasee
+*/
+body{
+    background-color: #FCFCFC;
+}
+header{
+    width:100%;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    background: #333;
+    color:white;
+    font-family:fantasy;
+}
+footer{
+    width: 100%;
+    height:100px;   /* footer的高度一定要是固定值*/ 
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    background: #333;
+    color:white;
+    text-align: center;
+    padding-top: 15px;
+}
+#sider{
+    text-align: center;
+    float:left;
+    width:17%;
+    height:69%;
+    background-color: #EAEAEA;
+    border:5px solid #CCCCCC;
+}
+thead{
+    background-color: #E0E0E0;
+}
+th{
+    height:30px;
+    border-bottom:3px solid #333;
+}
+.main_div{
+    float:left;
+    width:80%;
+    padding: 1%;
+
+}
+#tab{
+    margin-left: 60px;
+}
+.th_short{
+    width: 100px;
+}
+.th_lang{
+    width:200px;
+}
+.text_short{
+    width:50px;
+}
+.text_lang{
+    width:150px;
+}
+#lable_input{
+    border:0px;
+    background-color:transparent;
+    text-align: center;
+}
+#employee_title{
+    font-size: 20px;
+    font-style:italic;
+    padding-bottom: 15px;
+}
+#name_lable{
+    margin-left: 50px;
+}
+#total_table{
+    margin-top: 60px;
+}
+.statementTd{
+    padding-left: 15px;
+    font-family: fantasy;
+}
+

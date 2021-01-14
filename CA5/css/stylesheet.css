@@ -1,0 +1,123 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 25, 2018, 9:27:24 PM
+    Author     : hasee
+*/
+body{
+    text-align: center;
+    
+}
+header{
+    width:100%;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    background: #333;
+    color:white;
+    font-family:fantasy;
+    height: 17%
+}
+#welcome{
+    font-size: 30px;
+}
+#signout{
+    font-size: 25px;
+}
+#login_label{
+    margin-left: 20px;
+    margin-bottom: 5px;
+    float: left;
+    font-size: 20px;
+    color:white;
+    font-family:fantasy;
+}
+#login_input{
+    margin-bottom: 10px;
+}
+footer{
+    width: 100%;
+    height:13%;   /* footer的高度一定要是固定值*/ 
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    background: #333;
+    color:white;
+    text-align: center;
+    padding-top: 15px;
+}
+aside{
+    text-align: center;
+    float:left;
+    width:17%;
+    height:70%;
+    background-color: #EAEAEA;
+    border:5px solid #CCCCCC;
+}
+main{
+    float:left;
+    width:83%;
+
+}
+#myIframe{
+    frameborder :no;
+    border:0;
+    marginwidth:0;
+    scrolling:no;
+    height: 70%;
+    width:100%;
+    background-color: white;
+}
+.allOrderTh{
+    margin-left: 10px;
+    margin-right: 10px;
+    width:150px;
+}
+#login_div{
+    
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+    
+}
+
+#submitform{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    background-color: gray;
+    padding: 20px;
+    border: 3px;
+    border-color: white;
+    
+}
+li{
+    list-style: none;
+}
+
+.first_li{
+    color: black;
+    font-family: fantasy;
+    font-size: 20px;
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+}
+.second_li{
+    list-style: none;
+    text-align: left;
+    width:200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #6495ED;
+    font-size: 17px;
+}
+.second_ul{
+    float:left;
+    
+}
+
