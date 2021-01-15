@@ -9,7 +9,7 @@ $dsn = "mysql:host=localhost;dbname=workshop";
  * 
  * 
  */
-$dsn = "mysql:host=mydbinstance2.ckn3rjukaujj.us-east-1.rds.amazonaws.com;dbname=workshop";
+$dsn = "mysql:host=ca1mysqldb.ckn3rjukaujj.us-east-1.rds.amazonaws.com;dbname=workshop";
 $username = "mysqldbuser";
 $password = "mysqldbpassword";
 
